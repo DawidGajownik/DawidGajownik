@@ -7,7 +7,7 @@ I'm **Dawid Gajownik**, an aspiring Java Developer seeking my first opportunity 
   An application that enables bike reservations between private individuals. Designed with users in mind, it features an intuitive interface and advanced search capabilities.
 - [PortfolioLabCharity](https://github.com/dawid-gajownik/PortfolioLabCharity)  
   A platform supporting charity campaigns, making it easy to create and manage fundraising initiatives.
-- [BookIt!]  - in progress (https://github.com/dawid-gajownik/BookIt)  
+- [BookIt!](https://github.com/dawid-gajownik/BookIt)  - in progress 
   A service booking system with advanced filtering and search functionality, including location, price range, and other criteria.
 
 ## 🛠️ Technologies
