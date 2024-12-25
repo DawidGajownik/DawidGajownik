@@ -8,7 +8,7 @@ I'm **Dawid Gajownik**, an aspiring Java Developer seeking my first opportunity 
 - [PortfolioLabCharity](https://github.com/dawid-gajownik/PortfolioLabCharity)  
   A platform supporting charity campaigns, making it easy to create and manage fundraising initiatives.
 - [BookIt!](https://github.com/dawid-gajownik/BookIt)  
-  A service booking system with advanced filtering and search functionality, including location, price range, and other criteria.
+  (in progress...) A service booking system with advanced filtering and search functionality, including location, price range, and other criteria.
 
 ## 🛠️ Technologies
 - **Backend:** Java, Kotlin, Spring Boot, Hibernate, REST API
