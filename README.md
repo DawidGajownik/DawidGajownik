@@ -14,7 +14,7 @@ I'm **Dawid Gajownik**, an aspiring Java Developer seeking my first opportunity 
 - **Backend:** Java, Kotlin, Spring Boot, Hibernate, REST API
 - **Frontend:** HTML, CSS, JavaScript, Thymeleaf
 - **Databases:** MySQL
-- **Others:** Git
+- **Others:** Google Maps API, Google Translate API
 
 ## 🔍 My Approach
 - 🌟 I create search and filtering systems that genuinely improve user experience.
