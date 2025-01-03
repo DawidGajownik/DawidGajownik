@@ -3,11 +3,11 @@
 I'm **Dawid Gajownik**, an aspiring Java Developer seeking my first opportunity in the IT industry. I love working on projects that require advanced logic, especially in the area of search and filtering systems. My approach is user-centered, prioritizing high-quality code and creating solutions that truly enhance the user experience.
 
 ## 📂 My Projects
-- [TakeMyBike](https://github.com/dawid-gajownik/TakeMyBike)  
+- [TakeMyBike](https://github.com/DawidGajownik/TakkeMyBike)  
   An application that enables bike reservations between private individuals. Designed with users in mind, it features an intuitive interface and advanced search capabilities.
-- [PortfolioLabCharity](https://github.com/dawid-gajownik/PortfolioLabCharity)  
+- [PortfolioLabCharity](https://github.com/DawidGajownik/portfolioLabCharity)  
   A platform supporting charity campaigns, making it easy to create and manage fundraising initiatives.
-- [BookIt!](https://github.com/dawid-gajownik/BookIt)  
+- [BookIt!](https://github.com/DawidGajownik/Book-It-)  
   (in progress...) A service booking system with advanced filtering and search functionality, including location, price range, and other criteria.
 
 ## 🛠️ Technologies
