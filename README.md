@@ -9,12 +9,14 @@ I'm **Dawid Gajownik**, an aspiring Java Developer seeking my first opportunity 
   A platform supporting charity campaigns, making it easy to create and manage fundraising initiatives.
 - [BookIt!](https://github.com/DawidGajownik/Book-It-)  
   (in progress...) A service booking system with advanced filtering and search functionality, including location, price range, and other criteria.
+- [MUALApp](https://play.google.com/store/apps/details?id=dawid.gajownik.mualapp)  
+  Android app - searching restauranst visited by food-youtubers 
 
 ## 🛠️ Technologies
 - **Backend:** Java, Kotlin, Spring Boot, Hibernate, REST API
 - **Frontend:** HTML, CSS, JavaScript, Thymeleaf
-- **Databases:** MySQL
-- **Others:** Google Maps API, Google Translate API
+- **Databases:** MySQL, Firestore
+- **Others:** Google Maps API, Google Translate API, Android Compose
 
 ## 🔍 My Approach
 - 🌟 I create search and filtering systems that genuinely improve user experience.
