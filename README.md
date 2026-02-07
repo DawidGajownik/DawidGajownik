@@ -3,6 +3,10 @@
 I'm **Dawid Gajownik**, an aspiring Java Developer seeking my first opportunity in the IT industry. I love working on projects that require advanced logic, especially in the area of search and filtering systems. My approach is user-centered, prioritizing high-quality code and creating solutions that truly enhance the user experience.
 
 ## 📂 My Projects
+- [A_maze_ing](https://github.com/DawidGajownik/A-Maze-ing)
+  An application showing step by step maze creation and path finding alrorithm with some extra features like game mode, brick texture, and heart shape maze.
+- [FDF — Fil de Fer](https://github.com/DawidGajownik/fdf)
+  A program that displays a height map in three-dimensional and spherical views.
 - [TakeMyBike](https://github.com/DawidGajownik/TakkeMyBike)  
   An application that enables bike reservations between private individuals. Designed with users in mind, it features an intuitive interface and advanced search capabilities.
 - [PortfolioLabCharity](https://github.com/DawidGajownik/portfolioLabCharity)  
@@ -13,7 +17,7 @@ I'm **Dawid Gajownik**, an aspiring Java Developer seeking my first opportunity 
   Android app - searching restauranst visited by food-youtubers 
 
 ## 🛠️ Technologies
-- **Backend:** Java, Kotlin, Spring Boot, Hibernate, REST API
+- **Backend:** Python, C, Java, Kotlin, Spring Boot, Hibernate, REST API
 - **Frontend:** HTML, CSS, JavaScript, Thymeleaf
 - **Databases:** MySQL, Firestore
 - **Others:** Google Maps API, Google Translate API, Android Compose
