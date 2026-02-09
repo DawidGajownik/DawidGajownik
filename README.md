@@ -1,6 +1,6 @@
 # 👋 Welcome to My Profile!
 
-I'm **Dawid Gajownik**, an aspiring Java Developer seeking my first opportunity in the IT industry. I love working on projects that require advanced logic, especially in the area of search and filtering systems. My approach is user-centered, prioritizing high-quality code and creating solutions that truly enhance the user experience.
+I'm **Dawid Gajownik**, an aspiring Python, C, Kotlin, Java Developer seeking my first opportunity in the IT industry
 
 ## 📂 My Projects
 - [A_maze_ing](https://github.com/DawidGajownik/A-Maze-ing)  
