@@ -3,6 +3,35 @@
 I'm **Dawid Gajownik**, an aspiring Python, C, Kotlin, Java Developer seeking my first opportunity in the IT industry
 
 ## 📂 My Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/DawidGajownik/fly-in">Fly-in</a></h3>
+      <p>Algorithm carrying out drones from start to the end with certain rules and visualising whole process.</p>
+      <img src="images/flyin.png" width="100%" alt="Fly-in preview"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/DawidGajownik/A-Maze-ing">A_maze_ing</a></h3>
+      <p>An application showing step by step maze creation and path finding algorithm with extra features like game mode, brick texture, and heart shape maze.</p>
+      <img src="images/maze.png" width="100%" alt="A_maze_ing preview"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/DawidGajownik/fdf">FDF — Fil de Fer</a></h3>
+      <p>A program that displays a height map in three-dimensional and spherical views.</p>
+      <img src="images/fdf.png" width="100%" alt="FDF preview"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://play.google.com/store/apps/details?id=dawid.gajownik.mualapp">MUALApp</a></h3>
+      <p>Android app for searching restaurants visited by food-youtubers.</p>
+      <img src="images/mualapp.png" width="100%" alt="MUALApp preview"/>
+    </td>
+  </tr>
+</table>
+
 - [Fly-in](https://github.com/DawidGajownik/fly-in)  
   Algorithm carrying out drones from start to the end with certain rules and visualising whole process.
 - [A_maze_ing](https://github.com/DawidGajownik/A-Maze-ing)  
