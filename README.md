@@ -3,6 +3,8 @@
 I'm **Dawid Gajownik**, an aspiring Python, C, Kotlin, Java Developer seeking my first opportunity in the IT industry
 
 ## 📂 My Projects
+- [Fly-in](https://github.com/DawidGajownik/fly-in)
+  Algorithm carrying out drones from start to the end with certain rules and visualising whole process.
 - [A_maze_ing](https://github.com/DawidGajownik/A-Maze-ing)  
   An application showing step by step maze creation and path finding alrorithm with some extra features like game mode, brick texture, and heart shape maze.
 - [FDF — Fil de Fer](https://github.com/DawidGajownik/fdf)  
