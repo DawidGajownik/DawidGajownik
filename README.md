@@ -9,14 +9,15 @@ I'm **Dawid Gajownik**, an aspiring Python, C, Kotlin, Java Developer seeking my
   An application showing step by step maze creation and path finding alrorithm with some extra features like game mode, brick texture, and heart shape maze.
 - [FDF — Fil de Fer](https://github.com/DawidGajownik/fdf)  
   A program that displays a height map in three-dimensional and spherical views.
+- [MUALApp](https://play.google.com/store/apps/details?id=dawid.gajownik.mualapp)  
+  Android app - searching restauranst visited by food-youtubers 
 - [TakeMyBike](https://github.com/DawidGajownik/TakkeMyBike)  
   An application that enables bike reservations between private individuals. Designed with users in mind, it features an intuitive interface and advanced search capabilities.
 - [PortfolioLabCharity](https://github.com/DawidGajownik/portfolioLabCharity)  
   A platform supporting charity campaigns, making it easy to create and manage fundraising initiatives.
 - [BookIt!](https://github.com/DawidGajownik/Book-It-)  
   (in progress...) A service booking system with advanced filtering and search functionality, including location, price range, and other criteria.
-- [MUALApp](https://play.google.com/store/apps/details?id=dawid.gajownik.mualapp)  
-  Android app - searching restauranst visited by food-youtubers 
+
 
 ## 🛠️ Technologies
 - **Backend:** Python, C, Java, Kotlin, Spring Boot, Hibernate, REST API
